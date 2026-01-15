@@ -36,7 +36,7 @@
 <div align="center">
 
 <!-- Animated Skill Icons -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,python,nodejs,java,cpp,html,css,js,react,vue,docker,kubernetes,nginx,mysql,postgres,mongodb,redis,aws,gcp,azure&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,python,html,css,js,docker,nginx,mysql,nodejs&perline=8" />
 
 </div>
 
